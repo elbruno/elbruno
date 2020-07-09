@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Bruno Capuano, and you can find me by [**_<span style="text-decoration:underline;">elbruno</span>_**] on most of the usual places: [twitter](http://twitter.com/elbruno), [linkedin](https://www.linkedin.com/in/elbruno/), [facebook](http://facebook.com/elbrunoweb/), this blog and more. Please do not get discourage by some of the [search results](https://www.google.com/search?q=bruno+capuano&source=lnms), I’ll try to have fun and share knowledge with technical communities.
+Hi, my name is Bruno Capuano, and you can find me by [**_<span style="text-decoration:underline;">elbruno</span>_**] on most of the usual places: [twitter](http://twitter.com/elbruno), [linkedin](https://www.linkedin.com/in/elbruno/), [facebook](http://facebook.com/elbrunoweb/), [myblog](http://www.elbruno.com) and more. Please do not get discourage by some of the [search results](https://www.google.com/search?q=bruno+capuano&source=lnms), I’ll try to have fun and share knowledge with technical communities.
 
 I’m also a technology enthusiast (I don’t really understand the meaning of this, but it seems to look cool in a short description). I’ve speak in at least 2 different countries, so I’m an also an [international speaker](https://elbruno.com/tag/event/).
 
