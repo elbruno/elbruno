@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Sharing my drawing skills at Microsoft Ignite](https://brunocapuano.files.wordpress.com/2020/01/bruno-drawing-skills.png?w=1024)
 
-- 💬 I’ve been a [Microsoft MVP for 13 years, since 2008](https://mvp.microsoft.com/en-us/PublicProfile/4014166). The past 3 years I was awarded in the [Artificial Intelligence](https://elbruno.com/tag/ai/) category.
+- 💬 I’ve been a [Microsoft MVP for 14 years, since 2008](https://mvp.microsoft.com/en-us/PublicProfile/4014166). The past 4 years I was awarded in the [Artificial Intelligence](https://elbruno.com/tag/ai/) category.
 
 - 🌱 I lead the **_Innovation Team for Avanade Canada_**, which means I spend much part of my time trying to figure our the best way to connect real Business with cool technologies, and engaging my colleagues to perform smart and fun activities like participate in hackathons, coordinate hackathons and Innovation Contests, support tech meetings, and more!
 
