@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Sharing my drawing skills at Microsoft Ignite](https://brunocapuano.files.wordpress.com/2020/01/bruno-drawing-skills.png?w=1024)
 
-- 💬 On 2021 I joined Microsoft as **Senior Cloud Advocate 🥑**. Before this I was a [Microsoft MVP for 14 years, since 2008](https://mvp.microsoft.com/en-us/PublicProfile/4014166). The past 4 years I was awarded in the [Artificial Intelligence](https://elbruno.com/tag/ai/) category.
+- 💬 On 2021 I joined Microsoft as **Cloud Advocate 🥑**. Before this I was a [Microsoft MVP for 14 years, since 2008](https://mvp.microsoft.com/en-us/PublicProfile/4014166). The past 4 years I was awarded in the [Artificial Intelligence](https://elbruno.com/tag/ai/) category.
 
 - 🌱 Previous to Microsoft, I was leading the *_Innovation Team for Avanade Canada_*, which means I spent much part of my time trying to figure our the best way to connect real Business with cool technologies, and engage my colleagues to perform smart and fun activities like participate in hackathons, coordinate hackathons and Innovation Contests, support tech meetings, and more!
 
